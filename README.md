@@ -1,4 +1,4 @@
-# ifFunctionLoop
+# ifFunctionLoops
 
 If => ConditionalswithWindow.java = A Simple code that will ask to pick up a number, if number is bigger than 10, we will print a certain message using the JFrame window.
 
